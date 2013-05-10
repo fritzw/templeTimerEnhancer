@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       Guildwars Temple Timer Apps Enhancer
+// @name       Guild Wars Temple Timer Enhancer
 // @namespace  http://webering.eu/
 // @version    0.1
 // @description  Enhance the Guild Wars Temple dragon timers, especially add audio notifications.
@@ -88,8 +88,3 @@ for (i = 1; i <= 12; i++) {
         setTimeout(playSound, play * 1000);
     }
 }
-
-//var Timerbox = {
-//    foo: #bar'
-//}
-
